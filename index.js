@@ -1,4 +1,4 @@
-/**
+ /**
  * Projet : Traduire un algorythme en code JS
  * Etape 1 : Déclarer les variables
  * Attention à ne pas confondre les éléments HTML( let zoneRendu) avec les éléments numériques ( let rendu)
